@@ -1,3 +1,4 @@
 Some text for a.txt
 
-Modified from master 
+Modified from master; 
+Changes from second; 
